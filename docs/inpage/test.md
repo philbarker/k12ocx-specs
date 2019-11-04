@@ -1,14 +1,9 @@
 ---
-property: SIF Data Model
-stdurl: https://www.a4l.org/page/DataModel
-org: A4L
-types: "Student Data,Educator Data,Institutional Data,Content Metadata"
-datalayers: "1,2,3"
-edlevels: "PK,Primary,Secondary"
-region:
-origin: EdMatrix 1.0
+property: identifier
+type: Text | URL | PropertyValue
+description: Any kind of identifier (uuid, url, etc).
 ---
-# Activity
+***Activity***
 blah blah blah
 
 ## Properties
